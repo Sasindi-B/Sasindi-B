@@ -1,5 +1,5 @@
-## Helloww, It's me Sasindi
-# 💫 About Me:
+# Helloww, It's me Sasindi
+## 💫 About Me:
 I am a computer science undergraduate at Sri Lanka Institute of Information Technology<br>I’m passionate about creating meaningful digital experiences—<br>from university projects to personal builds, to real-world products for my own startup, which I’m building together with three amazing friends.<br><br>Here, I share my journey across:<br><br>🚀 Projects I build in my free time<br><br>📚 University coursework & engineering challenges<br><br>🛠️ Startup experiments & side-hustle product ideas<br><br>🌐 Tech learnings <br>
 
 
